@@ -1,2 +1,7 @@
 .idea/*
 target/*
+
+**/*.rs.bk
+
+tests/.pytest_cache/
+tests/__pycache__/*
